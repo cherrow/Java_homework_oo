@@ -1,3 +1,4 @@
+package com.cherrow.model;
 
 public class App {
     public String getGreeting() {
