@@ -6,7 +6,7 @@ import org.junit.Assert;
 public class RectangleTest {
 
     @Test
-    public void should_get_correct_size() {
+    public void should_get_correct_area() {
         //given
         float width = 2;
         float length = 3;
@@ -21,7 +21,7 @@ public class RectangleTest {
     }
 
     @Test
-    public void should_get_correct_perimeter() {
+    public void should_get_correct_circumference() {
         //given
         float width = 2;
         float length = 3;
